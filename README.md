@@ -1,4 +1,4 @@
-# miniubuntu
+# mini-ubuntu-docker
 Minimal Ubuntu Docker Image With Base Libraries
 
 ## Description
